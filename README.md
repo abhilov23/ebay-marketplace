@@ -46,13 +46,6 @@ NEXT_PUBLIC_MARKETPLACE_CONTRACT=key_goes_here
 NEXT_PUBLIC_COLLECTION_CONTRACT=key_goes_here
 ```
 
-## Author
-
-👤 **Divyam Agarwal**
-
-- Website: <https://divyamag.vercel.app/>
-- Github: [@Divyam2600](https://github.com/Divyam2600)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
